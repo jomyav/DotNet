@@ -8,6 +8,10 @@ namespace InheritanceTesting
 {
     class Program
     {
+        /// <summary>
+        /// Testing
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             //Hello: From B
