@@ -1,0 +1,6 @@
+E:\My Projects\Testing\Design pattern learning\Strategy\InheritanceTesting\bin\Debug\InheritanceTesting.exe.config
+E:\My Projects\Testing\Design pattern learning\Strategy\InheritanceTesting\bin\Debug\InheritanceTesting.exe
+E:\My Projects\Testing\Design pattern learning\Strategy\InheritanceTesting\bin\Debug\InheritanceTesting.pdb
+E:\My Projects\Testing\Design pattern learning\Strategy\InheritanceTesting\obj\Debug\InheritanceTesting.exe
+E:\My Projects\Testing\Design pattern learning\Strategy\InheritanceTesting\obj\Debug\InheritanceTesting.pdb
+E:\My Projects\Testing\Design pattern learning\Strategy\InheritanceTesting\obj\Debug\InheritanceTesting.csprojResolveAssemblyReference.cache
